@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-dwell-detector-example/static/css/main.56d567f6.chunk.css",
+    "main.js": "/react-dwell-detector-example/static/js/main.e9dd94ba.chunk.js",
+    "main.js.map": "/react-dwell-detector-example/static/js/main.e9dd94ba.chunk.js.map",
+    "runtime~main.js": "/react-dwell-detector-example/static/js/runtime~main.1598b115.js",
+    "runtime~main.js.map": "/react-dwell-detector-example/static/js/runtime~main.1598b115.js.map",
+    "static/js/2.9e89314f.chunk.js": "/react-dwell-detector-example/static/js/2.9e89314f.chunk.js",
+    "static/js/2.9e89314f.chunk.js.map": "/react-dwell-detector-example/static/js/2.9e89314f.chunk.js.map",
+    "index.html": "/react-dwell-detector-example/index.html",
+    "precache-manifest.693f4b558a45e66c670f858ac4c83764.js": "/react-dwell-detector-example/precache-manifest.693f4b558a45e66c670f858ac4c83764.js",
+    "service-worker.js": "/react-dwell-detector-example/service-worker.js",
+    "static/css/main.56d567f6.chunk.css.map": "/react-dwell-detector-example/static/css/main.56d567f6.chunk.css.map",
+    "static/media/logo.svg": "/react-dwell-detector-example/static/media/logo.a6c392fe.svg"
+  }
+}
