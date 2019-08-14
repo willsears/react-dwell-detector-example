@@ -1,0 +1,9 @@
+.hover-alert--container {
+  position: absolute;
+  left: 40px;
+}
+
+.hover-alert--text {
+  color: gray;
+  font-size: 72px;
+}
